@@ -2,7 +2,6 @@ from logging import exception
 import telebot
 from telebot import types
 from time import sleep
-import config
 
 
 
